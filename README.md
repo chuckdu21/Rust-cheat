@@ -16,5 +16,6 @@
 2. **Launch Rust**
 3. **Press INSERT key** to open the menu
 
-
 ## SCREENSHOTS
+![screen1](screen1.png)
+![screen2](screen2.png)
